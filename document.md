@@ -31,3 +31,11 @@
 # Run the application
 
 1. Run the application using `npm run dev`
+
+# Under the 'Src' folder you have 'Constants' folder under it you have 'index.js' , so if you want to modify the content of portfolio then change it in index.js file
+
+---
+
+# Coding the Website
+
+1. Developing the Structure / Layout
